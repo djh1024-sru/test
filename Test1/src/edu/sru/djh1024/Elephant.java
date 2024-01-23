@@ -1,4 +1,4 @@
-package edu.sru.thangiah;
+package edu.sru.djh1024;
 
 public class Elephant {
 
